@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jiya-portfolio/static/css/main.fd10bce2.css",
+    "main.js": "/jiya-portfolio/static/js/main.75bc03be.js",
+    "static/media/9.jpg": "/jiya-portfolio/static/media/9.1a8b074fe759c5348789.jpg",
+    "static/media/1.jpg": "/jiya-portfolio/static/media/1.68b72e8fd885362e908b.jpg",
+    "static/media/4.jpg": "/jiya-portfolio/static/media/4.18e6542cac79a01ee051.jpg",
+    "static/media/6.jpg": "/jiya-portfolio/static/media/6.ed7a420fc9b5b7d635da.jpg",
+    "static/media/2.jpg": "/jiya-portfolio/static/media/2.a6703c35d6330eda38c2.jpg",
+    "static/media/5.jpg": "/jiya-portfolio/static/media/5.c7bcf8913a1aa50f86ec.jpg",
+    "static/media/10.jpg": "/jiya-portfolio/static/media/10.4aa053e00b60264f5f48.jpg",
+    "static/media/3.jpg": "/jiya-portfolio/static/media/3.91167a0d1c21143ef29c.jpg",
+    "static/media/11.jpg": "/jiya-portfolio/static/media/11.7f3c05a749e0ad4f2eb7.jpg",
+    "static/media/8.jpg": "/jiya-portfolio/static/media/8.ef466140adc6acfa8d62.jpg",
+    "static/media/7.jpg": "/jiya-portfolio/static/media/7.288087b740eb9e8a71a2.jpg",
+    "static/media/profile.jpg": "/jiya-portfolio/static/media/profile.6d36729a3abe8e9b09de.jpg",
+    "index.html": "/jiya-portfolio/index.html",
+    "main.fd10bce2.css.map": "/jiya-portfolio/static/css/main.fd10bce2.css.map",
+    "main.75bc03be.js.map": "/jiya-portfolio/static/js/main.75bc03be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd10bce2.css",
+    "static/js/main.75bc03be.js"
+  ]
+}
